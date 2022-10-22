@@ -15,5 +15,5 @@ else if (idade>18){
     console.log('Adulto');
 } 
 else{
-    console.log('Você ainda não pode competir!')
+    console.log('Você ainda não pode competir!');
 }
