@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color:blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+}
+.div1{ 
+    background-color: rgb(9, 131, 152);
+}
+.div2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(152, 9, 131);
+}
+.p1{
+    text-align: center;
+    color: rgb(157, 149, 149);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.p2{
+    padding-left: 19px;
+    padding-bottom: 5px;
+    color: rgb(78, 41, 41);
+    font-family:sans-serif;
+    font-size: 18px;
+}
+.imgjoinha{
+    padding-left: 16px;
+    height:64px;
+    width:110;
+    padding: center;
+}
+.div3{
+    background-color: rgb(255, 251, 127);
+}
+ul{
+    color: rgb(96, 162, 16);
+}
+.p3{
+    font-family: 'Roboto', sans-serif;
+}
